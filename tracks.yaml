@@ -43,7 +43,7 @@ tracks:
     release_inc: '3'
     release_repo_url: https://github.com/asierfernandez/basic_package-release.git
     release_tag: :{version}
-    ros_distro: kinetic
+    ros_distro: tecnalia-kinetic
     vcs_type: git
     vcs_uri: https://github.com/asierfernandez/basic_package.git
     version: :{auto}
