@@ -1,3 +1,26 @@
+## basic_package (tecnalia-kinetic) - 0.0.3-2
+
+The packages in the `basic_package` repository were released into the `tecnalia-kinetic` distro by running `/usr/local/bin/bloom-release basic_package --track tecnalia-kinetic --rosdistro tecnalia-kinetic --non-interactive` on `Fri, 08 Mar 2019 09:11:25 -0000`
+
+The `basic_package` package was released.
+
+Version of package(s) in repository `basic_package`:
+
+- upstream repository: https://github.com/asierfernandez/basic_package.git
+- release repository: https://github.com/asierfernandez/basic_package-release.git
+- rosdistro version: `0.0.1-0`
+- old version: `0.0.3-1`
+- new version: `0.0.3-2`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## basic_package (tecnalia-kinetic) - 0.0.3-1
 
 The packages in the `basic_package` repository were released into the `tecnalia-kinetic` distro by running `/usr/local/bin/bloom-release basic_package --track tecnalia-kinetic --rosdistro tecnalia-kinetic` on `Fri, 08 Mar 2019 09:06:12 -0000`
