@@ -1,0 +1,12 @@
+Source: ros-tecnalia-kinetic-basic-package
+Section: misc
+Priority: extra
+Maintainer: Asier Fernandez <asier.fernandez@tecnalia.com>
+Build-Depends: debhelper (>= 9.0.0), ros-tecnalia-kinetic-catkin, ros-tecnalia-kinetic-roscpp
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-tecnalia-kinetic-basic-package
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: An example of a basic package
